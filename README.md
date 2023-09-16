@@ -49,7 +49,7 @@
 ✔ About Me
 <div>
 <a href="https://sin0824.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://www.notion.so/0c2d74a16b22403393f47f255f63dd18?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<a href="https://lydian-savory-0f5.notion.site/0c2d74a16b22403393f47f255f63dd18?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
 
 
