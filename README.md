@@ -4,7 +4,7 @@
  </p>
 
 # 💪Skills
-Platforms & Languages
+✔ Platforms & Languages
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <img src="https://img.shields.io/badge/JPA-FF0000?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -21,12 +21,26 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-41B883?style=flat&logo=Vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white" />
   <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white" />
 </div>
-### Tools
+
+<br>
+
+✔ Tools
+<div>
+<img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/datagrip-000000?style=flat&logo=datagrip&logoColor=white" />
+ <img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</div>
 
 
 
