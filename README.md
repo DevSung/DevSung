@@ -1,28 +1,33 @@
+<p>Hi there 👋</p>
+<p>안녕하세요, 저는 바리스타에서 개발자로 전향한 조성신이라고 합니다.
+주로 자바(JAVA)와 JPA를 활용한 개발을 주력으로 하며, 현재는 클라우드 인프라 구축에 큰 관심을 가지고 있습니다. Azure와 AWS를 틈틈히 공부하며, 클라우드 기술을 활용하여 프로젝트를 효율적으로 구축하고 관리하는 방법을 연구하고 있습니다.
+ </p>
 
-![header](https://capsule-render.vercel.app/api?text=Hi%20there🙃&animation=twinkling&height=300&color=auto)
+# 💪Skills
+Platforms & Languages
 <div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-FF0000?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/QueryDsl-007396?style=flat&logo=QueryDsl&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-FF0000?style=flat&logo=QueryDsl&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon Aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-41B883?style=flat&logo=Vue.js&logoColor=white" />
-</br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-<img src="https://img.shields.io/badge/QueryDsl-007396?style=flat&logo=QueryDsl&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-</br>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white" />
 </div>
+### Tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeon-jiun&layout=compact"/><br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/byeon-jiun/byeon-jiun)
 
 
 
