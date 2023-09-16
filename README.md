@@ -24,17 +24,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeon-jiun&layout=compact"/><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/byeon-jiun/byeon-jiun)
 
-<div align=center>
-<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-<a href="sungsin1030@gmail.com">
-<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-</a>
-<a href="https://lydian-savory-0f5.notion.site/JPA-e2d46847fa4a40a78b01ea5b2857bac1">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a>
-<br>
-</div>
+
 
 
