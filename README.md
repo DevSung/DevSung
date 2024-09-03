@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/MyBatis-FF0000?style=flat&logo=QueryDsl&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBootBatch-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-FF0000?style=flat&logo=kafka&logoColor=white" />
+
+
   <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon Aws&logoColor=white" />
