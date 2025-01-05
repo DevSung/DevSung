@@ -33,13 +33,14 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </div>  
 
 ## ▶ Technical Proficiency Chart
 아래는 보유 기술에서 각각의 숙련도를 시각화한 차트입니다:
 
 <div align="center">
-  
+
 ```mermaid
 pie
     title Technical Proficiency
@@ -47,7 +48,6 @@ pie
     "Database (MySQL, Redis)": 30
     "Kotlin": 10
 ```
-
 </div>
 
 ✔ **Java**  
