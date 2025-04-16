@@ -15,7 +15,7 @@
 # 👨‍💻 About Me  
 ✔ **Contact**  
 - **Email**: sungsin1030@gmail.com  
-- **Resume (Notion)**: [Notion Resume](https://lydian-savory-0f5.notion.site/Backend-Developer-01cc68b1c4db43d8abf5ba354bcf0f1e)
+- **Resume (Web)**: [Notion Resume](https://devsung.github.io)
 
 ✔ **What I Value**  
 - **문제 해결 중심의 사고**: 비즈니스와 기술 문제를 효과적으로 해결할 수 있는 최적의 솔루션을 설계하는 데 주력하고 있습니다.  
