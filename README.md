@@ -1,108 +1,36 @@
-<div align="center">
+## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=Cho%20Sungsin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer&descAlignY=56&descSize=20&animation=fadeIn" width="100%" />
+안녕하세요, 백엔드 개발자 조성신입니다.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=520&lines=Java+%2F+Spring+Boot+Backend+Developer;%EA%B4%91%EA%B3%A0+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%84+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+외식업계와 스타트업 운영팀을 거쳐 2021년 11월에 개발자로 전향했습니다.
+현재는 광고 데이터를 다루는 백엔드 시스템을 만들고 있습니다.
 
-<br>
+하루에 쌓이는 광고 성과 데이터를 수집·집계하고, 광고주가 바로 활용할 수 있는 형태로
+전달하는 일이 주 업무입니다.
 
-<a href="https://devsung.github.io"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="https://velog.io/@devsung"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
-<a href="mailto:sungsin1030@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=DevSung&style=for-the-badge&color=764BA2&label=VISITORS" />
+### 🛠 주로 다루는 것
 
-</div>
+- 대용량 광고 성과 데이터의 수집·집계 배치 설계와 운영
+- 검색광고·디스플레이 광고 플랫폼 API 연동
+- 데이터베이스 성능 개선 (실행 계획 분석, 인덱스 및 집계 로직 튜닝)
+- AWS·NCP 환경 운영
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+### 💻 기술
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+- Language / Framework: Java, Spring Boot, JPA, QueryDSL
+- Data: MySQL, Redis, Kafka
+- Infra: AWS, NCP, Docker, GitHub Actions
+- Frontend: Vue, React
+- Learning: Kotlin
 
-<img align="right" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=1" width="0" />
+### 🌱 요즘 관심 있는 것
 
-```yaml
-name: 조성신 (Cho Sungsin)
-role: Backend Engineer
-since: 2021.11
-focus:
-  - 광고 성과 데이터 수집 · 집계 파이프라인
-  - 대용량 배치와 비동기 처리
-  - AWS · NCP 이중 클라우드 운영
-motto: "돌아가는 코드보다, 왜 그렇게 돌아가는지 아는 코드"
-currently_learning: Kotlin
-```
+- Kafka를 활용한 데이터 흐름 분리와 재처리 설계
+- 성능 개선한 로직의 정합성을 자동으로 검증하는 방법
+- 대규모 트래픽 환경에서의 데이터베이스 운영
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+### 📬 Links
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stacks
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="130"><b>Language</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,kotlin,js,ts&theme=dark" height="46" /></td>
-</tr>
-<tr>
-<td align="center"><b>Framework</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="46" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logoColor=white" height="28" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,redis,kafka&theme=dark" height="46" /></td>
-</tr>
-<tr>
-<td align="center"><b>Infra</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux&theme=dark" height="46" />
-<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white" height="28" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=vue,react,html,css&theme=dark" height="46" /></td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,idea,postman,notion&theme=dark" height="46" /></td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevSung&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&icon_color=F093FB&title_color=764BA2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSung&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&title_color=764BA2" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSung&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=764BA2&line=F093FB&point=667EEA" width="98%" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevSung/DevSung/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevSung/DevSung/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DevSung/DevSung/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Recent Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="right"><a href="https://velog.io/@devsung"><b>전체 글 보기 →</b></a></div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F093FB,50:764BA2,100:667EEA&height=140&section=footer" width="100%" />
+- Portfolio: https://devsung.github.io
+- Blog: https://velog.io/@devsung
+- Email: sungsin1030@gmail.com
