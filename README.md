@@ -20,6 +20,8 @@
 - Language / Framework: Java, Spring Boot, JPA, QueryDSL
 - Data: MySQL, Redis, Kafka
 - Infra: AWS, NCP, Docker, GitHub Actions
+- Frontend: Vue, React
+- Learning: Kotlin
 
 ### 🌱 요즘 관심 있는 것
 
